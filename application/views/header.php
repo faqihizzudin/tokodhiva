@@ -9,7 +9,7 @@
 
     <link rel="shortcut icon" href="<?php echo base_url(); ?>ubold-21/ubold/Admin/dark_leftbar/assets/images/favicon_1.ico">
 
-    <title>Toko Faqih</title>
+    <title>Toko Pakan Ternak Dhiva</title>
 
     <!-- DataTables --> 
     <link href="<?php echo base_url(); ?>ubold-21/ubold/Admin/dark_leftbar/assets/plugins/datatables/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>
